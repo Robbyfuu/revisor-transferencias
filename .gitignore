@@ -1,0 +1,10 @@
+*.json
+*.pickle
+*.txt
+
+# Ignore all files in the build/ directory
+__pycache__/
+banco_estado/__pycache__
+banco_falabella/__pycache__
+paypal/__pycache__
+scotiabank/__pycache__
